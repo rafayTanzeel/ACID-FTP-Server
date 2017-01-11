@@ -37,4 +37,3 @@ To send a READ message, type:
 	 read <any txn id> <any non-neg seq_num> <any content_length> <file_name>
 For example:
 	 read 1 1 1 file.txt
-(The correct content length will be computed automatically and send to the server.
